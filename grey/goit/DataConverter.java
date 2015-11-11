@@ -8,7 +8,7 @@ import java.io.InputStreamReader;
 <<<<<<< HEAD
  * Created by grey on 08.11.2015. 
 =======
- * Created by grey on 08.11.2015. (branch master)
+ * Created by grey on 08.11.2015. (branch master)+
 >>>>>>> master
  */
 public class DataConverter  {
