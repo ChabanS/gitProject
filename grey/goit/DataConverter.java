@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- * Created by grey on 08.11.2015.)
+ * Created by grey on 08.11.2015.
  */
 public class DataConverter  {
     BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
